@@ -33,7 +33,7 @@ setup(
 
     entry_points={
         'console_scripts': [
-            'tlst=tlst:main',
+            'tlst=tlst.tlst:main',
         ],
     }
 )
